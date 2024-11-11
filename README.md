@@ -1,1 +1,15 @@
-# Diebetes-Prediction-using-Deep-Learning
+# Diebetes-Prediction-using-Deep-Learning![Weekly Assignment 2_Page_01](https://github.com/user-attachments/assets/5fa29111-4017-40d6-b0bb-99a6e1d345fc)
+
+![Uploading Weekly Assignment 2_Page_01.jpg…]()
+![Weekly Assignment 2_Page_02](https://github.com/user-attachments/assets/651130b7-f23b-4951-8c36-4a1b5a571e95)
+![Weekly Assignment 2_Page_03](https://github.com/user-attachments/assets/99d16845-7356-4017-a5b9-1848de62399b)
+![Weekly Assignment 2_Page_04](https://github.com/user-attachments/assets/f6abee35-2bdf-474d-af22-453138dea0fa)
+![Weekly Assignment 2_Page_05](https://github.com/user-attachments/assets/91270fc3-9b24-47ea-b98f-9b0cd396e137)
+![Weekly Assignment 2_Page_06](https://github.com/user-attachments/assets/f904df94-212b-45bb-8b52-9ee4dd51169a)
+![Weekly Assignment 2_Page_07](https://github.com/user-attachments/assets/bcec3ad3-cb79-4483-a52f-7522cf752b85)
+![Weekly Assignment 2_Page_08](https://github.com/user-attachments/assets/84b6740b-fbd9-4412-ac73-6a4c3150c6f3)
+![Weekly Assignment 2_Page_09](https://github.com/user-attachments/assets/e7f6d8ec-64ef-40ab-9fc6-09ea7c5032b6)
+![Weekly Assignment 2_Page_10](https://github.com/user-attachments/assets/6fa8ee7d-33a1-4c4b-8be3-091f9f5f125d)
+![Weekly Assignment 2_Page_11](https://github.com/user-attachments/assets/8fc4d22c-e939-43e6-a32d-8652468770d2)
+![Weekly Assignment 2_Page_12](https://github.com/user-attachments/assets/66b4c978-2727-401f-ae43-d63b679139ca)
+![Weekly Assignment 2_Page_13](https://github.com/user-attachments/assets/5e5ae97f-34ab-4ae5-a050-4e4e4a80ae27)
