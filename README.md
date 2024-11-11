@@ -1,6 +1,6 @@
-# Diebetes-Prediction-using-Deep-Learning![Weekly Assignment 2_Page_01](https://github.com/user-attachments/assets/5fa29111-4017-40d6-b0bb-99a6e1d345fc)
+# Diebetes-Prediction-using-Deep-Learning
 
-![Weekly Assignment 2_Page_01](https://github.com/user-attachments/assets/3baf1b3e-6d74-4a9b-a75a-527660119370)
+![image](https://github.com/user-attachments/assets/73d9a68b-9ecb-4679-bfe9-5330e7379c94)
 ![Weekly Assignment 2_Page_02](https://github.com/user-attachments/assets/651130b7-f23b-4951-8c36-4a1b5a571e95)
 ![Weekly Assignment 2_Page_03](https://github.com/user-attachments/assets/99d16845-7356-4017-a5b9-1848de62399b)
 ![Weekly Assignment 2_Page_04](https://github.com/user-attachments/assets/f6abee35-2bdf-474d-af22-453138dea0fa)
