@@ -1,4 +1,4 @@
-# Diebetes-Prediction-using-Deep-Learning
+# Diabetes-Prediction-using-Deep-Learning
 
 ![image](https://github.com/user-attachments/assets/73d9a68b-9ecb-4679-bfe9-5330e7379c94)
 ![Weekly Assignment 2_Page_02](https://github.com/user-attachments/assets/651130b7-f23b-4951-8c36-4a1b5a571e95)
